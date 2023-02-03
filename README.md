@@ -41,6 +41,8 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
 
 ## **How to Join**
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJ7mj2jXiZ5TYdhirlnTfL3AEtlZ2TibiDAf7XGPdk3uXW2g/viewform?embedded=true" width="640" height="907" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 1. Fill in the short registration form.
     1. TODO: create an online form gathering name, phone, email, etc.
 2. Digitally sign the liability waiver.
