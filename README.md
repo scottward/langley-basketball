@@ -1,3 +1,4 @@
+![Basketball Court](court-from-top.jpg)
 # **Langley Drop-In Basketball**
 
 * Fun, friendly, competitive play.
@@ -51,5 +52,7 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
 ## **Contact**
 
 Text/call Scott Ward at 604.700.4426 with any questions.
+
+![Hoop From Below](hoop-from-below.jpg)
 
 
