@@ -7,7 +7,7 @@
 
 ## **Location**
 
-![alt_text](images/image1.png "image_tooltip")
+![Town and Field Church](town-and-field-church.png)
 
 Games graciously hosted by [Town and Field Church](https://townandfield.ca/) located at [20719 48 Avenue, Langley, BC, V3A 3L7](https://goo.gl/maps/283R8xNWTGZxmEnH8).
 
