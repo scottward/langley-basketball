@@ -9,7 +9,7 @@
 
 ![alt_text](images/image1.png "image_tooltip")
 
-Games graciously hosted by [Town and Field Church](https://townandfield.ca/) located at[20719 48 Avenue, Langley, BC, V3A 3L7](https://goo.gl/maps/283R8xNWTGZxmEnH8).
+Games graciously hosted by [Town and Field Church](https://townandfield.ca/) located at [20719 48 Avenue, Langley, BC, V3A 3L7](https://goo.gl/maps/283R8xNWTGZxmEnH8).
 
 The program is organized by [Holy Nativity Orthodox Church](https://www.holynativitychurch.ca/).
 
