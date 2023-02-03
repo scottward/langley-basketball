@@ -2,6 +2,8 @@
 
 ![Basketball Court](court-from-top.jpg)
 
+## **Overview**
+
 * Fun, friendly, competitive play.
 * For adults and youth at least 13 years old.
 * Twice weekly drop-in.
@@ -28,7 +30,7 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
     * $8 per session, or
     * $50 per month (for all sessions, usually 8)
 * We don't collect any money.
-* Participants donate directly to one of Town and Field's local ministiry partners:
+* Participants donate directly to one of Town and Field's local ministry partners:
   *  [Nightshift](https://nightshiftministries.org/donate/)
   *  [Hope for Women](https://www.hopeforwomen.ca/?form=FUNUCMFYHQY)
   *  [Burnaby Counselling Group](https://counsellinggroup.org/donate/)
