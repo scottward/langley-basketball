@@ -52,7 +52,9 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
 
 Text/call Scott Ward at 604.700.4426 with any questions.
 
-#
+</br>
+</br>
+
 
 ![Hoop From Below](hoop-from-below.jpg)
 
