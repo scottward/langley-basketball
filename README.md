@@ -54,8 +54,6 @@ Text/call Scott Ward at 604.700.4426 with any questions.
 
 <p><br></p>
 <p><br></p>
-
-# hi
    
 ![Hoop From Below](hoop-from-below.jpg)
 
