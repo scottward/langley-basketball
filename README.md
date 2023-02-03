@@ -8,8 +8,6 @@
 
 ## **Location**
 
-<img src="town-and-field-church.png" alt="Town and Field Church" width="250"/>
-
 ![Town and Field Church](town-and-field-church.png)
 
 Games graciously hosted by [Town and Field Church](https://townandfield.ca/) located at [20719 48 Avenue, Langley, BC, V3A 3L7](https://goo.gl/maps/283R8xNWTGZxmEnH8).
@@ -40,13 +38,11 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
 
 ## **How to Join**
 
-
-
 1. Fill in the short registration form.
     1. TODO: create an online form gathering name, phone, email, etc.
 2. Digitally sign the liability waiver.
     2. TODO: create a liability waiver for people to sign.
-3. Come play ball!
+3. Come play ball! Tuesdays and Thursdays at 6am.
 
 
 ## **Contact**
