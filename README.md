@@ -25,10 +25,12 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
 * Suggested donation amounts:
     * $8 per session, or
     * $50 per month (for all sessions, usually 8)
-* Participant donate directly to one of these local charities
-* [ NightShift Street Ministries](https://nightshiftministries.org/) that provides nightly outreach for people stuck in the cycle of poverty, addiction and homelessness.
-* Make your donation to NighShift through the Town and Field Church’s[ donation page](https://townandfield.churchcenter.com/giving).
-* Consider giving over above the suggested amounts if you are able since NightShift is a good cause and it is a way of thanking Town and Field for their hospitality. Also it covers the cost for players who aren’t able to donate the suggested amount.
+* We don't collect any money.
+* Participants donate directly to one of Town and Field's local ministiry partners:
+  *  [Nightshift](https://nightshiftministries.org/donate/)
+  *  [Hope for Women](https://www.hopeforwomen.ca/?form=FUNUCMFYHQY)
+  *  [Burnaby Counselling Group](https://counsellinggroup.org/donate/)
+* Consider giving over above the suggested amounts if you are able since these are good causes and it is a way of thanking Town and Field for their hospitality. Also it covers the giving for players who aren’t able to donate the suggested amount.
 
 **IMPORTANT:** Donations are on the honour system! You are responsible to donate in accordance with how often you play ball.
 
