@@ -1,5 +1,6 @@
-![Basketball Court](court-from-top.jpg)
 # **Langley Drop-In Basketball**
+
+![Basketball Court](court-from-top.jpg)
 
 * Fun, friendly, competitive play.
 * For adults and youth at least 13 years old.
