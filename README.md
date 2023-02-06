@@ -5,9 +5,11 @@
 ## **Overview**
 
 * Fun, friendly, competitive play.
-* For adults and youth at least 13 years old.
+* For adults and youth age 13+.
+* Open to everyone in the Fraser Valley.
 * Twice weekly drop-in.
-* At least some basketball experience is recommended.
+
+**Experience playing basketball is recommended.**
 
 ## **Location**
 
@@ -20,7 +22,8 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 
 ## **Time**
 
-Every Tuesday and Thursday morning from 6am - 7:30am.
+* Every **Tuesday** and **Thursday** morning
+* 6am - 7:30am
 
 
 ## **Cost**
@@ -50,7 +53,7 @@ Every Tuesday and Thursday morning from 6am - 7:30am.
 
 ## **Contact**
 
-Text/call Scott Ward at 604.700.4426 with any questions.
+Text/call Scott at 604.700.4426 with any questions.
 
 <p><br></p>
 <p><br></p>
