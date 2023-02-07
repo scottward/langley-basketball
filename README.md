@@ -1,4 +1,4 @@
-# **Langley Drop-In Basketball**
+# **Langley Pick-Up Basketball**
 
 ![Basketball Court](court-from-top.jpg)
 
@@ -7,7 +7,7 @@
 * Fun, friendly, competitive play.
 * For adults and youth age 13+.
 * Open to everyone in the Fraser Valley.
-* Twice weekly drop-in.
+* Twice weekly, pick-up ball.
 
 **Experience playing basketball is recommended.**
 
