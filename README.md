@@ -24,6 +24,7 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 
 * Every **Tuesday** and **Thursday** morning
 * 6am - 7:30am
+* We'll text the day before to confirm that there are enough players
 
 
 ## **Cost**
@@ -44,16 +45,10 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 
 ## **How to Join**
 
-**STEP 1: Register**
+* Text/call Scott at 604.700.4426 to get on the interested player list.
+* When we text for confirmation, respond with whether you plan to come the following day.
+* Play ball!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJ7mj2jXiZ5TYdhirlnTfL3AEtlZ2TibiDAf7XGPdk3uXW2g/viewform?embedded=true" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-**STEP 2: Come play ball!** Tuesdays and Thursdays at 6am.
-
-
-## **Contact**
-
-Text/call Scott at 604.700.4426 with any questions.
 
 <p><br></p>
 <p><br></p>
