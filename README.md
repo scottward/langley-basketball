@@ -43,7 +43,7 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 **IMPORTANT:** Donations are on the honour system! You are responsible to donate in accordance with how often you play ball.
 
 
-## **How to Join**
+## **Interested?**
 
 * Text/call Scott at 604.700.4426 to get on the interested player list.
 * When we text for confirmation, respond with whether you plan to come the following day.
