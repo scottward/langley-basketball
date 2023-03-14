@@ -1,13 +1,12 @@
-# **Langley Pick-Up Basketball**
+# **Langley Adult Pick-Up Basketball**
 
 ![Basketball Court](court-from-top.jpg)
 
 ## **Overview**
 
 * Fun, friendly, competitive play.
-* For adults and youth age 13+.
 * Open to everyone in the Fraser Valley.
-* Twice weekly, pick-up ball.
+* Tuesdays and Thursday mornings at 6am.
 
 **Experience playing basketball is recommended.**
 
