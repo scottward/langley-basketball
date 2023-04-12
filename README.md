@@ -6,7 +6,7 @@
 
 * Fun, friendly, competitive play.
 * Open to everyone in the Fraser Valley.
-* Tuesdays and Thursday mornings at 6am.
+* Tuesdays and Thursday mornings at 7am.
 
 **Experience playing basketball is recommended.**
 
@@ -22,16 +22,14 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 ## **Time**
 
 * Every **Tuesday** and **Thursday** morning
-* 6am - 7:30am
+* 7am - 8am
 * We'll text the day before to confirm that there are enough players
 
 
 ## **Cost**
 
 * Entry is by donation as you are able. Everyone is welcome regardless of your ability to donate a specific amount.
-* Suggested donation amounts:
-    * $8 per session, or
-    * $50 per month (for all sessions, usually 8)
+* Suggested donation amounts is $5 per session.
 * We don't collect any money.
 * Participants donate directly to one of Town and Field's local ministry partners:
   *  [Nightshift](https://nightshiftministries.org/donate/)
