@@ -29,7 +29,7 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 ## **Cost**
 
 * Entry is by donation as you are able. Everyone is welcome regardless of your ability to donate a specific amount.
-* Suggested donation amounts is $5 per session.
+* Suggested donation amount is $5 per session.
 * We don't collect any money.
 * Participants donate directly to one of Town and Field's local ministry partners:
   *  [Nightshift](https://nightshiftministries.org/donate/)
