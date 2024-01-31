@@ -5,10 +5,10 @@
 ## **Overview**
 
 * Fun, friendly, competitive play.
-* Open to everyone in the Fraser Valley.
-* Tuesdays and Thursday mornings at 7am.
+* Open to players throughout the Fraser Valley.
+* Tuesdays and Thursday mornings at 6:30am.
 
-**Experience playing basketball is recommended.**
+**Experience playing basketball is necessary.**
 
 ## **Location**
 
@@ -22,7 +22,7 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 ## **Time**
 
 * Every **Tuesday** and **Thursday** morning
-* 7am - 8am
+* 6:30am - 8am
 * We'll text the day before to confirm that there are enough players
 
 
