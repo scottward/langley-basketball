@@ -1,4 +1,4 @@
-<span style="font-size: 20px;">Langley Men's Pick-Up Basketball</span>
+## **Langley Men's Pick-Up Basketball**
 
 ![Basketball Court](court-from-top.jpg)
 
