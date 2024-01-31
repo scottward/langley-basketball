@@ -1,3 +1,6 @@
+---
+title: Langley Men's Pick-Up Basketball
+---
 ## **Langley Men's Pick-Up Basketball**
 
 ![Basketball Court](court-from-top.jpg)
