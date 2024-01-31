@@ -1,4 +1,4 @@
-# **Langley Men's Pick-Up Basketball**
+# **Langley Mens Pick-Up Basketball**
 
 ![Basketball Court](court-from-top.jpg)
 
