@@ -4,9 +4,9 @@
 
 ## **Next Run**
 
-<h3 id="next-session" style="background: yellow; padding: 10px; display: inline;">Tuesday or Thursday this week</h3>
+<span id="next-session" style="font-size: 21px; background: yellow; padding: 6px; display: inline; font-size: 15px;">Tuesday or Thursday this week</span>
 <p>
- [Click here to get on the list.](#interesetd)
+ <a href="#interested">Click here to get on the list.</a>
 </p>
 
 ## **Overview**
