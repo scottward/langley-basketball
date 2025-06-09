@@ -2,6 +2,13 @@
 
 ![Basketball Court](court-from-top.jpg)
 
+## **Next Run**
+
+<h3 id="next-session" style="background: yellow; padding: 10px; display: inline;">Tuesday or Thursday this week</h3>
+<p>
+ [Click here to get on the list.](#interesetd)
+</p>
+
 ## **Overview**
 
 * Fun, friendly, competitive play.
@@ -39,8 +46,7 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 
 **IMPORTANT:** Donations are on the honour system! You are responsible to donate in accordance with how often you play ball.
 
-
-## **Interested?**
+<h2 id="interested"><strong>Interested?</strong></h2>
 
 * Text/call Scott at 604.700.4426 to get on the interested player list.
 * When we text for confirmation, respond with whether you plan to come the following day.
