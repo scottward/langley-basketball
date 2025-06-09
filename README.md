@@ -4,27 +4,35 @@
 
 ## **Next Run**
 
-<span id="next-session" style="font-size: 21px; background: yellow; padding: 6px; display: inline; font-size: 15px;">Tuesday or Thursday this week</span>
+<span id="next-session" style="background: yellow; padding: 6px; display: inline; font-size: 21px;">Tuesday or Thursday this week</span>
 <p>
  <a href="#interested">Click here to get on the list.</a>
 </p>
 
 <script>
- function updateNextSessionDate() {
+function updateNextSessionDate() {
     // Check for test datetime in URL params
     const urlParams = new URLSearchParams(window.location.search);
     const testDatetime = urlParams.get('testDatetime');
     
     let pstTime;
     if (testDatetime) {
-        // Parse test datetime (format: 2025-06-10+06:30)
-        const [datePart, timePart] = testDatetime.split('+');
-        const [year, month, day] = datePart.split('-').map(Number);
-        const [hour, minute] = timePart.split(':').map(Number);
+        // Parse test datetime using ISO 8601 format (2025-06-10T06:30 or 2025-06-10T06:30:00)
+        const decoded = decodeURIComponent(testDatetime);
         
-        // Create date in PST (assuming the test input is already in PST)
-        pstTime = new Date(year, month - 1, day, hour, minute);
-        console.log(`Using test datetime: ${pstTime.toLocaleString()}`);
+        // Parse as ISO string - JavaScript's Date constructor handles this natively
+        pstTime = new Date(decoded);
+        
+        // Verify it parsed correctly
+        if (isNaN(pstTime.getTime())) {
+            console.error(`Invalid test datetime format: ${decoded}. Use ISO format like 2025-06-10T06:30`);
+            // Fall back to current time
+            const now = new Date();
+            const pstOffset = -8;
+            pstTime = new Date(now.getTime() + (pstOffset * 60 * 60 * 1000));
+        } else {
+            console.log(`Using test datetime: ${pstTime.toLocaleString()}`);
+        }
     } else {
         // Get current date and time in PST
         const now = new Date();
@@ -102,7 +110,7 @@
     
     return formattedDate;
  }
-
+ 
  // Call the function to update the date
  updateNextSessionDate();
 </script>
