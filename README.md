@@ -1,12 +1,14 @@
 ## **Langley Men's Pick-Up Basketball**
 
+**[Get on the player list &rarr;](/interested.html)**
+
 ![Basketball Court](court-from-top.jpg)
 
 ## **Next Run**
 
 <span id="next-session" style="background: yellow; padding: 6px; display: inline; font-size: 21px;">Tuesday or Thursday this week</span>
 <p>
- <a href="#interested">Click here to get on the list.</a>
+ <a href="/interested.html">Click here to get on the list.</a>
 </p>
 
 <script>
@@ -154,9 +156,7 @@ The program is organized by [Holy Nativity Orthodox Church](https://www.holynati
 
 <h2 id="interested"><strong>Interested?</strong></h2>
 
-* Text/call Scott at 604.700.4426 to get on the interested player list.
-* When we text for confirmation, respond with whether you plan to come the following day.
-* Play ball!
+**[Click here to get on the player list &rarr;](/interested.html)**
 
 
 <p><br></p>
