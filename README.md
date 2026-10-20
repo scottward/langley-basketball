@@ -12,6 +12,23 @@
 </p>
 
 <script>
+// Current Langley wall-clock time (PST/PDT), as a Date whose local getters
+// (getDay, getHours, ...) return Pacific values in any visitor's time zone
+function pacificNow() {
+    const parts = Object.fromEntries(
+        new Intl.DateTimeFormat('en-US', {
+            timeZone: 'America/Vancouver',
+            hourCycle: 'h23',
+            year: 'numeric',
+            month: 'numeric',
+            day: 'numeric',
+            hour: 'numeric',
+            minute: 'numeric'
+        }).formatToParts(new Date()).map(part => [part.type, part.value])
+    );
+    return new Date(parts.year, parts.month - 1, parts.day, parts.hour, parts.minute);
+}
+
 function updateNextSessionDate() {
     // Check for test datetime in URL params
     const urlParams = new URLSearchParams(window.location.search);
@@ -29,17 +46,12 @@ function updateNextSessionDate() {
         if (isNaN(pstTime.getTime())) {
             console.error(`Invalid test datetime format: ${decoded}. Use ISO format like 2025-06-10T06:30`);
             // Fall back to current time
-            const now = new Date();
-            const pstOffset = -8;
-            pstTime = new Date(now.getTime() + (pstOffset * 60 * 60 * 1000));
+            pstTime = pacificNow();
         } else {
             console.log(`Using test datetime: ${pstTime.toLocaleString()}`);
         }
     } else {
-        // Get current date and time in PST
-        const now = new Date();
-        const pstOffset = -8; // PST is UTC-8
-        pstTime = new Date(now.getTime() + (pstOffset * 60 * 60 * 1000));
+        pstTime = pacificNow();
     }
     
     const currentDay = pstTime.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
